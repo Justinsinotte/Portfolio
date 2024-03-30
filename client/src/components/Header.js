@@ -16,7 +16,7 @@ function Header({ themeMode, toggleThemeMode }) {
         </Box>
         <Box
           style={{
-            width: "22%",
+            width: "20%",
             display: "flex",
             justifyContent: "space-between",
             alignItems: "center",
